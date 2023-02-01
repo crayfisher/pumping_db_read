@@ -1,0 +1,84 @@
+uid,hydro_id,Q,location,gr1,gr2,abstraction_type,aquifer,shallow_gr,pad
+#N/A,#N/A,,Sump 01,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 02,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 03,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 03B,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 03C,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 04,trenches,,trenches,LBS,,
+#N/A,#N/A,,Sump 05,trenches,,trenches,LBS,,
+PD004P1,LYPBB013,7,Pad 04,bores,bores deep,bores deep,paleo,,Pad 04
+PD004S1,LYSP012,0.8,Pad 04s,bores,bores shallow,bores shallow,LBS,low Q,Pad 04
+PD008P1,LYPBB004,20,Pad 08,bores,bores deep,bores deep,paleo,,Pad 08
+PD012P1,LYPBB009,10,Pad 12,bores,bores deep,bores deep,paleo,,Pad 12
+PD014P1,LYPBB008,20,Pad 14,bores,bores deep,bores deep,paleo,,Pad 14
+PD014S1,LYSP006,20.83912037,Pad 14s,bores,bores shallow,bores shallow,LBS,high Q,Pad 14
+PD016P1,LYPBB015,15,Pad 16,bores,bores deep,bores deep,paleo,,Pad 16
+PD016S1,LYSP014,1.689814815,Pad 16s,bores,bores shallow,bores shallow,LBS,low Q,Pad 16
+PD017P1,LYPBB001,13,Pad 17,bores,bores deep,bores deep,paleo,,Pad 17
+PD017S1,LYSP004,2.462384259,Pad 17s,bores,bores shallow,bores shallow,LBS,low Q,Pad 17
+PD018P1,LYPBB006,6,Pad 18,bores,bores deep,bores deep,paleo,,Pad 18
+PD018S1,LYSP002,3.984375,Pad 18s,bores,bores shallow,bores shallow,LBS,low Q,Pad 18
+PD021P1,LYPBB002,9,Pad 21,bores,bores deep,bores deep,paleo,,Pad 21
+PD021S1,LYSP003,1.62037037,Pad 21s,bores,bores shallow,bores shallow,LBS,low Q,Pad 21
+PD022P1,LYPBB014,6,Pad 22,bores,bores deep,bores deep,paleo,,Pad 22
+PD022S1,LYSP013,1.030092593,Pad 22s,bores,bores shallow,bores shallow,LBS,low Q,Pad 22
+PD023P1,LYPBB010,14,Pad 23,bores,bores deep,bores deep,paleo,,Pad 23
+PD023S1,LYSP001,1.154513889,Pad 23s,bores,bores shallow,bores shallow,LBS,low Q,Pad 23
+PD024S1,LYSP011,0.8,Pad 24s,bores,bores shallow,bores shallow,LBS,low Q,Pad 24
+PD028S1,LYSP007,11.68981481,Pad 28s,bores,bores shallow,bores shallow,LBS,high Q,Pad 28
+PD029S1,LYSP010,16.21527778,Pad 29,bores,bores shallow,bores shallow,LBS,high Q,Pad 29
+T2001S1,LYSP015,1.145833333,T2-01,bores,bores shallow,bores shallow,LBS,low Q,T2-01
+T2002S1,LYSP016,1.472800926,T2-02,bores,bores shallow,bores shallow,LBS,low Q,T2-02
+T2003S1,LYSP017,1.134259259,T2-03,bores,bores shallow,bores shallow,LBS,low Q,T2-03
+T2004S1,LYSP018,2.578125,T2-04,bores,bores shallow,bores shallow,LBS,low Q,T2-04
+T2005S1,LYSP019,1.623263889,T2-05,bores,bores shallow,bores shallow,LBS,low Q,T2-05
+T2006S1,LYSP020,2.210648148,T2-06,bores,bores shallow,bores shallow,LBS,low Q,T2-06
+T2007S1,LYSP021,1.134259259,T2-07,bores,bores shallow,bores shallow,LBS,low Q,T2-07
+T2008S1,LYSP022,2.196875,T2-08,bores,bores shallow,bores shallow,LBS,low Q,T2-08
+BT006S1,LYSP025,3,BT006S1,bores,bores shallow,bores shallow,LBS,low Q,BT-006
+GT064S1,LYSP036,6,GT064S1,bores,bores shallow,bores shallow,LBS,high Q,GT-064
+GT064S2,LYSP037,15,GT064S2,bores,bores shallow,bores shallow,LBS,high Q,GT-064
+GT070S1,LYSP023,10.48611111,GT070S1,bores,bores shallow,bores shallow,LBS,high Q,GT-070
+KT012S1,LYSP029,3.087384259,KT012S1,bores,bores shallow,bores shallow,LBS,low Q,KT-012
+KT038P1,LYPBB017,9.236111111,KT038P1,bores,bores deep,bores deep,paleo,,KT-038
+ST035S1,LYSP040,7.737268519,ST035S1,bores,bores shallow,bores shallow,LBS,high Q,ST-035
+S5004S1,LYSP044,3.75,S5004S1,bores,bores shallow,bores shallow,LBS,low Q,S5-004
+S5009S1,LYSP042,7.118055556,S5009S1,bores,bores shallow,bores shallow,LBS,high Q,S5-009
+BT003S1,LYSP050,7.25,BT003S1,bores,bores shallow,bores shallow,LBS,low Q,BT003
+BT010S1,LYSP051,4.25,BT010S1,bores,bores shallow,bores shallow,LBS,low Q,BT010
+CT011S1,LYSP032,2.5,CT011S1,bores,bores shallow,bores shallow,LBS,low Q,CT011
+CT027S1,LYSP033,5.25,CT027S1,bores,bores shallow,bores shallow,LBS,low Q,CT027
+CT032S1,LYSP053,7,CT032S1,bores,bores shallow,bores shallow,LBS,low Q,CT032
+CT037S1,LYSP031,5.5,CT037S1,bores,bores shallow,bores shallow,LBS,low Q,CT037
+CT043S1,LYSP054,5.25,CT043S1,bores,bores shallow,bores shallow,LBS,low Q,CT043
+CT053S1,LYSP049,20.2662037,CT053S1,bores,bores shallow,bores shallow,LBS,high Q,CT053
+CT058S1,LYSP048,12.25417824,CT058S1,bores,bores shallow,bores shallow,LBS,low Q,CT058
+KT005S1,LYSP052,6.043865741,KT005S1,bores,bores shallow,bores shallow,LBS,low Q,KT005
+NT053S1,LYSP034,2,NT053S1,bores,bores shallow,bores shallow,LBS,high Q,NT053
+PD008S1,LYSP046,12.37268519,PB008S1,bores,bores shallow,bores shallow,LBS,high Q,Pad 08
+PD014S2,LYSP039,12.51736111,PB014S2,bores,bores shallow,bores shallow,LBS,high Q,Pad 14
+ST013M1,LYSP047,6,ST013S1,bores,bores shallow,bores shallow,LBS,low Q,ST013
+PD009S1,LYSP045,13.85416667,PB009S1,bores,bores shallow,bores shallow,LBS,high Q,Pad 09
+GT039S1,LYSP055,18,GT039S1,bores,bores shallow,bores shallow,LBS,high Q,GT039
+NL010S1,LYSP041,3.25,NL010S1,bores,bores shallow,bores shallow,LBS,low Q,NL010
+NL018M1,LYSP043A,3,NL018S1,bores,bores shallow,bores shallow,LBS,low Q,NL018
+PT012S1,LYSP026,4,PT012S1,bores,bores shallow,bores shallow,LBS,high Q,PT012
+PT017S1,LYSP024,4,PT017S1,bores,bores shallow,bores shallow,LBS,high Q,PT017
+G5004S1,LYSP057,11.5,G5004S1,bores,bores shallow,bores shallow,LBS,high Q,G5004
+C5006S1,LYSP030,4.25,C5006S1,bores,bores shallow,bores shallow,LBS,low Q,C5006
+GT059S1,LYSP058,9,GT059S1,bores,bores shallow,bores shallow,LBS,high Q,GT059
+G6004S1,LYSP059,5.5,G6004S1,bores,bores shallow,bores shallow,LBS,low Q,G6004
+GT076S1,LYSP027,3,GT076S1,bores,bores shallow,bores shallow,LBS,low Q,GT076
+G7004S1,LYSP060,4,G7004S1 ,bores,bores shallow,bores shallow,LBS,low Q,G7004
+duplicate,,0,Pad 14S2,bores,bores shallow,bores shallow,LBS,high Q,Pad 14
+S3008S1,LYSP061,16.5,S3008S1,bores,bores shallow,bores shallow,LBS,high Q,S3008
+S3014S1,LYSP062,24.5,S3014S1,bores,bores shallow,bores shallow,LBS,high Q,S3014
+CT053S2,LYSP066,20,CT053S2,bores,bores shallow,bores shallow,LBS,high Q,CT053
+ST079S1,LYSP068,12,ST079S1,bores,bores shallow,bores shallow,LBS,high Q,ST079
+GT039S2,LYSP069,16,GT039S2,bores,bores shallow,bores shallow,LBS,high Q,GT039
+PD009S2,LYSP070,13.5,PB009S2,bores,bores shallow,bores shallow,LBS,high Q,PB009
+ST079P1,LYPBB020,17,ST079P1,bores,bores deep,bores deep,paleo,,ST079
+ST071P1,LYPBB019,15,ST071P1,bores,bores deep,bores shallow,paleo,,ST071
+ST071S1,LYSP064,13.5,ST071S1,bores,bores shallow,bores shallow,LBS,high Q,ST071
+PT001S1,LYSP028,2.25,PT001S1,bores,bores shallow,bores shallow,LBS,low Q,PT001
+ST055S1,LYSP063,5,ST055S1,bores,bores shallow,bores shallow,LBS,low Q,ST055

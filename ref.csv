@@ -1,0 +1,41 @@
+location,abstraction_type,aquifer
+Sump 04,trenches,LBS
+Pad 04,bores deep,paleo
+Pad 04s,bores shallow,LBS
+Pad 08,bores deep,paleo
+Pad 12,bores deep,paleo
+Pad 14,bores deep,paleo
+Pad 14s,bores shallow,LBS
+Pad 16,bores deep,paleo
+Pad 16s,bores shallow,LBS
+Pad 17,bores deep,paleo
+Pad 17s,bores shallow,LBS
+Pad 18,bores deep,paleo
+Pad 18s,bores shallow,LBS
+Pad 21,bores deep,paleo
+Pad 21s,bores shallow,LBS
+Pad 22,bores deep,paleo
+Pad 22s,bores shallow,LBS
+Pad 23,bores deep,paleo
+Pad 23s,bores shallow,LBS
+Pad 24s,bores shallow,LBS
+Pad 28s,bores shallow,LBS
+Pad29s,bores shallow,LBS
+T2-01,bores shallow,LBS
+T2-02,bores shallow,LBS
+T2-03,bores shallow,LBS
+T2-04,bores shallow,LBS
+T2-05,bores shallow,LBS
+T2-06,bores shallow,LBS
+T2-07,bores shallow,LBS
+T2-08,bores shallow,LBS
+BT-006S,bores shallow,LBS
+GT-064S1,bores shallow,LBS
+GT-064S2,bores shallow,LBS
+GT-070S,bores shallow,LBS
+KT-012S,bores shallow,LBS
+Sump 03,trenches,LBS
+Sump 03B,trenches,LBS
+Sump 03C,trenches,LBS
+Sump 05,trenches,LBS
+Sump 2',trenches,LBS

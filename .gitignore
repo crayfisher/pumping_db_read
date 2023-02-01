@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+*.RData
+*.rdata
+.Ruserdata
+*.csv
+*.xlsx
+*.xlsm
+plots/
+!ref.csv
+!ref_db_read.csv
+!ref_sump_db_read.csv
+
+
